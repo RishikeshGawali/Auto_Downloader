@@ -111,7 +111,7 @@ Handles downloading and saving the file.
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Developed by **[Your Name]**
 
