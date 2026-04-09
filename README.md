@@ -117,9 +117,5 @@ Developed by **[Your Name]**
 
 ---
 
-## 📄 License
-
-This project is open-source and free to use.
-
 📧 [rishigawali11@gmail.com](mailto:rishigawali11@gmail.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/rishikesh-gawali-b3a510237/)
