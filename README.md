@@ -113,7 +113,7 @@ Handles downloading and saving the file.
 
 ## Author
 
-Developed by **[Your Name]**
+Developed by **Rishikesh Bharat Gawali**
 
 ---
 
